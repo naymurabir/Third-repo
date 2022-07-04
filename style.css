@@ -1,5 +1,13 @@
 h1{
     color: pink;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border: 5px solid turquoise;
+    margin: 15px 15px 15px 15px;
+    padding: 3px;
+    border-radius: 5px;
+
 }
 body{
     background-color: green;
